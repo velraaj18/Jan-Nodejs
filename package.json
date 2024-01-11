@@ -1,0 +1,23 @@
+{
+  "name": "node.js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev" :"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velraaj18/Jan-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velraaj18/Jan-Nodejs/issues"
+  },
+  "homepage": "https://github.com/velraaj18/Jan-Nodejs#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
